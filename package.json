@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pellseer/nodeproject.git"
+  },
+  "author": "Pell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pellseer/nodeproject/issues"
+  },
+  "homepage": "https://github.com/pellseer/nodeproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
